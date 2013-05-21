@@ -10,3 +10,5 @@ v0.1 Guide:
 3. Update the code with your credentials.
 4. Copy the code from index.js into your pijs code editor.
 5. You're done!
+
+TIP: This can also be run as a standard Node.js application!
